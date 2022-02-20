@@ -8,10 +8,6 @@ ul{
     text-decoration: none;
 }
 
-li{
-    list-style-type: circle;
-}
-
 a{
     text-decoration: none;
 }
@@ -22,6 +18,11 @@ a{
 
 .menu a{
     color: red;
+}
+
+img{
+    width: 300px;
+    height: auto;
 }
 
 
